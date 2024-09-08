@@ -1,0 +1,220 @@
+html, body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    
+}
+
+.logo-navbar {
+    background-color: #222f3e;
+    padding: 5px;
+}
+
+.logo-navbar img {
+    max-width: 150px;
+}
+
+.contenitore-link-navbar {
+    background-color: #354758;
+    padding: 5px;
+}
+
+.contenitore-link-navbar a {
+    color: white;
+    margin: 0 10px;
+}
+
+main {
+    background-color: #eaeded;
+    padding: 20px;
+    
+}
+
+.spazio-sotto {
+    margin-bottom: 20px;
+}
+
+.contenitore-holiday-gift-cards {
+    background-color: #f56600;
+    padding: 6px 0px;
+    text-align: center;
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.contenitore-holiday-gift-cards a {
+    color: white;
+}
+
+.contenitore-holiday-gifts {
+    position: relative;
+    text-align: center;
+}
+
+.testo-banner {
+    position: absolute;
+    top: 11%;
+    left: 46%;
+    text-align: center;
+    color: white;
+}
+
+.contenitore-trova-regalo-migliore {
+    background-color: white;
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.testi-regalo-migliore {
+    display: block;
+    padding: 5px;
+}
+
+.testi-regalo-migliore p {
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 25px;
+    font-weight: 600;
+    
+}
+
+.testi-regalo-migliore a {
+    font-weight: 600;
+    color: #017185;
+}
+
+.contenitore-imagini {
+    text-align: center;
+}
+
+.contenitore-immagine-categoria-regalo {
+    display: inline;
+    margin: 0 auto;
+}
+
+.contenitore-immagine-categoria-regalo img {
+    height: 350px;
+    max-width: 250px;
+    object-fit: cover;
+    margin-right: 40px;
+    border-radius: 15pt;
+    box-shadow: 3px 6px 13px 5px #d1cdcd;
+    margin-bottom: 20px;
+}
+
+.contenitore-shop {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.img-1280 {
+    object-fit: cover;
+    max-width: 1280px;
+    height: 400px;
+}
+
+.contenitore-shop p {
+    display: inline-block;
+    margin-right: 6px;
+    margin-top: 3px;
+    font-weight: 600;
+}
+
+.contenitore-shop a {
+    color: #017185;
+    font-weight: 600;
+}
+
+.testi-gifting-game {
+    text-align: center;
+}
+
+.back-to-top {
+    background-color: #354758;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.back-to-top a {
+    color: white;
+    text-decoration: underline;
+}
+
+.logo-footer {
+    background-color: #222f3e;
+}
+
+.logo-footer img {
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.contenitore-see-more {
+    max-width: 1280px;
+    display: flex;
+    column-gap: 20px;
+    margin: 0 auto;
+}
+
+.contenitore-img-extra-section {
+    max-width: 300px;
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.link-see-more {
+    display: block;
+    margin: 15px 0 10px 20px;
+    font-weight: 600;
+    color: #017185;
+    text-align: start;
+}
+
+.contenitore-img-extra-section h3 {
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: 700;
+    text-align: start;
+}
+    
+
+.contenitore-img-p-see-more {
+    display: inline-block;
+    max-width: 120px;
+    margin: 0 10px;
+    text-align: center;
+    position: relative;
+}
+
+.contenitore-img-p-see-more img {
+    max-width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.contenitore-img-p-see-more p {
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: start;
+}
+
+.badge {
+    position: absolute;
+    bottom: -13px;
+    right: -50px;
+    transform: scale(0.45);
+}
+
+
